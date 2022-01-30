@@ -1,6 +1,13 @@
 .wordle-key {
   margin: 0.15em;
-  height: 3em;
-  width: 3em;
+  height: 4em;
+  width: 4em;
   border: 2px solid #555555;
+}
+
+@media screen and (max-width: 400px) {
+  .wordle-key {
+    height: 3em;
+    width: 3em;
+  }
 }

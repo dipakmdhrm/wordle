@@ -7,7 +7,7 @@ export class Popup extends Component {
       <div id="popup-container">
         <div id="popup">
           <header id="popup-header">
-            <button id="popup-close"></button>
+
           </header>
           <section id="popup-content">
 
